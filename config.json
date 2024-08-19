@@ -1,0 +1,11 @@
+{
+    "guid": "<<Website Guid>>",
+    "apiKeyFetch": "<<Provide the fetch api key>>",
+    "apiKeyPreview": "<<Provide the preview api key>>",
+    "mgmtApiToken": "<<Provide the management api token which can be accessed from https://mgmt.aglty.io/oauth/authorize>>",
+    "locale" : "<<The locale in which the list exists>>",
+    "sourceReferenceName" : "<<The referenceName of the source list>>",
+    "targetReferenceName" : "<<The referenceName of the target list>>",
+    "fieldName" : "<<The name of the linked field where the referenceName is defined. This is from the source list>>",
+    "fieldToBeUpdated" : "<<The field name that needs to be updated>>"
+}
